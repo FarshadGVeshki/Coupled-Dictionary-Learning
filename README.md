@@ -14,7 +14,7 @@ Matlab code for the CDL method in 2019 paper "An Efficient Coupled Dictionary Le
 
  Input variables:
  
-   opts.omage: tuning parameter (default: 0.5)
+   opts.omaga: tuning parameter (default: 0.5)
    
    opts.K:    number of atoms in dictionaries (default: 4*max([size(X1,1),size(X1,1)])) 
    
