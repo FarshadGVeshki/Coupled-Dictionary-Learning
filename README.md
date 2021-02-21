@@ -1,4 +1,4 @@
-# Coupled-Dictionary-Learning
+# An Efficient Coupled Dictionary Learning Method
 Matlab code for the CDL method in 2019 paper "An Efficient Coupled Dictionary Learning Method"
 
  A computationally efficient algorithm for learning a pair of coupled dictionaries {D1,D2} corresponding to the correlated joint dataset
